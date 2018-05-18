@@ -3,8 +3,8 @@ import pymysql
 
 class DbConnect():
 
-    def __init__(self):
-        pass
+    # def __init__(self):
+    #     pass
 
     def __connect(self, db):
         host = '127.0.0.1'

@@ -3,7 +3,7 @@ from woocommerce import API
 
 class REQ():
     """
-    This class ddq is used to make the api calls. It will create the object using the hardcoded
+    This cla ss ddq is used to make the api calls. It will create the object using the hardcoded
     consumer_key and consumer_secret йцйц.
     """
 

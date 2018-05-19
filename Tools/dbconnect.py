@@ -14,7 +14,7 @@ class DbConnect():
     def selectQuery(self,db, query):
         """
 
-        :param db:
+        :param  db:
         :param query:
         :return:
         """

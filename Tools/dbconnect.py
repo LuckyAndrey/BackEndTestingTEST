@@ -1,6 +1,6 @@
 import pymysql
 
-
+# add new line
 class DbConnect():
 
     # def __init__(self):
@@ -36,7 +36,7 @@ class DbConnect():
     def update(self, db, query):
         """
         :param db:
-        :param query:
+        :param  query:
         :return:
         """
         conn = self.__connect(db)
